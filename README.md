@@ -1,3 +1,5 @@
+# Squidward
+
 #This is the setup for an "on-a-stick" not in line, single NIC based
 #Squid Proxy, limited security and lockdown so not massively secure,
 #put together purely for testing purposes only. It by no means covers
